@@ -1,6 +1,10 @@
 # Make_shorts
-This is a python code that can make a 30 second reel/short video from a longer video.All you have to do is to give the relevant part of the longer videos as clippings.
-The main code is a Jupyter Notebook,input video with the output video has also been provided.
-Input video has been taken from here(https://www.youtube.com/watch?v=y3RIHnK0_NE)
-Output video is the final output.
-The sound track(hiphop4.mp3) for the background has been composed by me(Yes I do a lil music production too)
+
+This Python code generates a 30-second reel or short video from a longer video. You need to provide relevant clippings from the longer video, and the code will concatenate them to create the final output.
+
+The main code is provided in a Jupyter Notebook, along with an input video and the corresponding output video.
+
+- Input video source: [YouTube](https://www.youtube.com/watch?v=y3RIHnK0_NE)
+- Output video: Final output video
+
+The background soundtrack, "hiphop4.mp3," has been composed by me(Yes, I do lil music production too).
